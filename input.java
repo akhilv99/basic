@@ -5,7 +5,7 @@ import java.util.Scanner;
  *
  * @author quantum
  */
-public class Lawn {
+public class input {
 
   
     public static void main(String[] args) {
